@@ -43,5 +43,5 @@ stationIndex = stationNames.index(selectedStation)
 stationYears = 2017 - stationStartYears[stationIndex]
 
 # Print station name and number of years of operation on screen
-print("The Helsinki", selectedStation, "station has been operational for", \
-      stationYears, "years.)
+print "The Helsinki", selectedStation, "station has been operational for", \
+      stationYears, "years."
